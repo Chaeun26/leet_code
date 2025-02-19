@@ -5,9 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.prev=None
-
     def flatten(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.

@@ -53,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaeun26/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->

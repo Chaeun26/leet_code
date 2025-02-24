@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Chaeun26/leet_code/tree/master/0238-product-of-array-except-self) |
@@ -111,4 +112,8 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Chaeun26/leet_code/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix

@@ -6,16 +6,4 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        count=0
-
-        stack=[root]
-
-        while stack:
-            node=stack.pop()
-
-            if node:
-                count+=1
-                stack.append(node.left)
-                stack.append(node.right)
-
-        return count
+        return 1 + self.countNodes(root.right) + self.countNodes(root.left) if root else 0

@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaeun26/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 ## Graph
 |  |

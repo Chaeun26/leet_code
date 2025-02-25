@@ -6,7 +6,7 @@ class Solution:
 
         dp[0][0]=True
         
-        for i in range(0,len(s)-1):
+        for i in range(len(s)-1):
             dp[i][i]=True
             if s[i]==s[i+1]:
                 dp[i][i+1]=True

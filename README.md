@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Chaeun26/leet_code/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Backtracking
 |  |
 | ------- |

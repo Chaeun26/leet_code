@@ -4,10 +4,10 @@ class Solution:
         li=lj=0
         dp = [[False]*len(s) for _ in range(len(s))]
 
-        for i in range(len(s)):
-            dp[i][i]=True
+        dp[0][0]=True
         
         for i in range(0,len(s)-1):
+            dp[i][i]=True
             if s[i]==s[i+1]:
                 dp[i][i+1]=True
                 longest=2

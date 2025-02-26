@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaeun26/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chaeun26/leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

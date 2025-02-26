@@ -97,12 +97,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chaeun26/leet_code/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chaeun26/leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Chaeun26/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |

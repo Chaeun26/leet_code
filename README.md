@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaeun26/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaeun26/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## String

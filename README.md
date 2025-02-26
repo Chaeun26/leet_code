@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/Chaeun26/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
@@ -72,6 +73,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## String
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Chaeun26/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |

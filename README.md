@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaeun26/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Chaeun26/leet_code/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Chaeun26/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Chaeun26/leet_code/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |

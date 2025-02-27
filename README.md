@@ -68,6 +68,7 @@
 | [0011-container-with-most-water](https://github.com/Chaeun26/leet_code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@
 | [0002-add-two-numbers](https://github.com/Chaeun26/leet_code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Chaeun26/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 ## Math
 |  |

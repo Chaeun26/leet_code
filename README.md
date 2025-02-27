@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Chaeun26/leet_code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaeun26/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Chaeun26/leet_code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |

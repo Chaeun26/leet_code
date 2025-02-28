@@ -10,9 +10,4 @@ class Solution:
                 carry=1
                 digits[i] = 0
                 
-        if carry==1:
-            if digits[0]==0:
-                return [1] + digits
-            else:
-                digits[0]+=1
-                return digits
+        return [1] + digits

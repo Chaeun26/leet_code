@@ -22,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Chaeun26/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Chaeun26/leet_code/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -85,6 +86,7 @@
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0012-integer-to-roman](https://github.com/Chaeun26/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |

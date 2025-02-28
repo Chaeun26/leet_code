@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Chaeun26/leet_code/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chaeun26/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -141,6 +142,7 @@
 | [0012-integer-to-roman](https://github.com/Chaeun26/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion

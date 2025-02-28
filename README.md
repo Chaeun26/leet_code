@@ -119,6 +119,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Chaeun26/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 ## Math
 |  |

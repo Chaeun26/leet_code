@@ -117,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaeun26/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chaeun26/leet_code/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/Chaeun26/leet_code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
@@ -291,4 +292,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Chaeun26/leet_code/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

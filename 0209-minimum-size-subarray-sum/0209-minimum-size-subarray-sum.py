@@ -1,14 +1,10 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-
-        i=0
-        curr=0
+        i=curr=0
         ans=float('inf')
         for j in range(len(nums)):
             
             curr+=nums[j]
-
-
             
             if curr+nums[j] > target:
                 while curr > target:

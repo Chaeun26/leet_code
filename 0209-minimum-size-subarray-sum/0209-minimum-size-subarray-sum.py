@@ -6,14 +6,11 @@ class Solution:
             
             curr+=nums[j]
             
-            if curr+nums[j] > target:
-                while curr > target:
+            while curr >= target:
                     ans=min(ans,j-i+1)
                     curr-=nums[i]
                     i+=1
-            
-            if curr>=target:
-                ans=min(ans,j-i+1)
+        
 
 
         return ans if ans!=float('inf') else 0

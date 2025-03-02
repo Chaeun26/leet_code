@@ -53,6 +53,7 @@
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
@@ -96,6 +97,7 @@
 | [0125-valid-palindrome](https://github.com/Chaeun26/leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |

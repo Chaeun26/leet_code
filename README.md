@@ -89,6 +89,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Chaeun26/leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -122,6 +123,7 @@
 | [0022-generate-parentheses](https://github.com/Chaeun26/leet_code/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Chaeun26/leet_code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Chaeun26/leet_code/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |

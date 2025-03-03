@@ -53,6 +53,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chaeun26/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
@@ -152,6 +153,7 @@
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -307,6 +309,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chaeun26/leet_code/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

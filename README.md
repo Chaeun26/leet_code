@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chaeun26/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Chaeun26/leet_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chaeun26/leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Chaeun26/leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
@@ -162,6 +164,7 @@
 | [0009-palindrome-number](https://github.com/Chaeun26/leet_code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chaeun26/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chaeun26/leet_code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Chaeun26/leet_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |

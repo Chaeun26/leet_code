@@ -96,6 +96,7 @@
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Chaeun26/leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Chaeun26/leet_code/tree/master/0148-sort-list) |
@@ -153,6 +154,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Chaeun26/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |

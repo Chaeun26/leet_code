@@ -38,6 +38,7 @@
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -69,6 +70,7 @@
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Chaeun26/leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Chaeun26/leet_code/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## String
 |  |
@@ -197,6 +200,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Chaeun26/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Chaeun26/leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaeun26/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |

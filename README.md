@@ -172,6 +172,7 @@
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

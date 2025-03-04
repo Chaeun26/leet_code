@@ -9,7 +9,7 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         queue=deque([root])
         ans=[]
-        direct=1
+        direct=True
         while queue:
             qlen=len(queue)
             nodes=[]
@@ -17,14 +17,14 @@ class Solution:
                 node=queue.popleft()
 
                 if node:
-                    if direct==1:
+                    if direct==True:
                         nodes.append(node.val)
                     else:
                         nodes.insert(0,node.val)
 
                     queue.append(node.left)
                     queue.append(node.right)
-            direct=direct*-1
+            direct=not direct
             if nodes:
                 ans.append(nodes)
 

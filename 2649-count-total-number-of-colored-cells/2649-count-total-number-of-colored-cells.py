@@ -1,6 +1,8 @@
 class Solution:
     def coloredCells(self, n: int) -> int:
-        if n==1:
-            return 1
+        ans=1
         
-        return self.coloredCells(n-1) + 4*(n-1)
+        for i in range(n,0,-1):
+            ans+=4*(i-1)
+
+        return ans

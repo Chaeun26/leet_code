@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
@@ -128,6 +129,7 @@
 | [0200-number-of-islands](https://github.com/Chaeun26/leet_code/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## String
@@ -231,6 +233,7 @@
 | [0207-course-schedule](https://github.com/Chaeun26/leet_code/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |

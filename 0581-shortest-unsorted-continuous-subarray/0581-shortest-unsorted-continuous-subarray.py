@@ -9,9 +9,6 @@ class Solution:
             if nums[i] > nums[i+1]:
                 max_val=max(max_val,nums[i])
         
-        if min_val==inf and max_val==-inf:
-            return 0
-        
         l=r=0
         for i in range(n):
             if min_val<nums[i]:
@@ -22,4 +19,4 @@ class Solution:
                 r=i
                 break
 
-        return r-l+1
+        return r-l+1 if r > l else 0

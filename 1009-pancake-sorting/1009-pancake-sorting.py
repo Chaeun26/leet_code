@@ -9,10 +9,8 @@ class Solution:
             if max_idx!=0:
                 ans.append(max_idx+1)
                 arr[:max_idx+1] = arr[:max_idx+1][::-1]
-                # print(ans, arr)
 
             ans.append(k)
             arr[:k]=arr[:k][::-1]
-            # print("2nd",k, arr)
 
         return ans

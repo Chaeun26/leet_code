@@ -195,6 +195,7 @@
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -377,4 +378,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

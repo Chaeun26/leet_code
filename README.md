@@ -163,11 +163,13 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaeun26/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaeun26/leet_code/tree/master/0209-minimum-size-subarray-sum) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |

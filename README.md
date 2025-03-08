@@ -223,6 +223,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Chaeun26/leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaeun26/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0285-inorder-successor-in-bst](https://github.com/Chaeun26/leet_code/tree/master/0285-inorder-successor-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
 |  |
@@ -238,6 +239,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaeun26/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0285-inorder-successor-in-bst](https://github.com/Chaeun26/leet_code/tree/master/0285-inorder-successor-in-bst) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
@@ -271,6 +274,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Chaeun26/leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaeun26/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0285-inorder-successor-in-bst](https://github.com/Chaeun26/leet_code/tree/master/0285-inorder-successor-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |

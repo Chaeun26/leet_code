@@ -1,7 +1,6 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
-        count=0
-        l=0
+        count=l=0
         n=len(colors)
 
         for r in range(n+k-1):

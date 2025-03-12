@@ -44,6 +44,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
+| [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
@@ -123,6 +124,7 @@
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
+| [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -330,6 +333,7 @@
 | [0191-number-of-1-bits](https://github.com/Chaeun26/leet_code/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Chaeun26/leet_code/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Chaeun26/leet_code/tree/master/0222-count-complete-tree-nodes) |
+| [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,6 +380,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
+| [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |

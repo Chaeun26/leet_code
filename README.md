@@ -242,6 +242,7 @@
 | [0437-path-sum-iii](https://github.com/Chaeun26/leet_code/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
+| [0904-leaf-similar-trees](https://github.com/Chaeun26/leet_code/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Chaeun26/leet_code/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Chaeun26/leet_code/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0285-inorder-successor-in-bst](https://github.com/Chaeun26/leet_code/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/Chaeun26/leet_code/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Chaeun26/leet_code/tree/master/0904-leaf-similar-trees) |
 ## Union Find
 |  |
 | ------- |

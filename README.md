@@ -54,6 +54,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Chaeun26/leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chaeun26/leet_code/tree/master/0238-product-of-array-except-self) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## String
 |  |
 | ------- |

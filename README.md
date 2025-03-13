@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/Chaeun26/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
+| [0361-bomb-enemy](https://github.com/Chaeun26/leet_code/tree/master/0361-bomb-enemy) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
@@ -146,6 +147,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Chaeun26/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Chaeun26/leet_code/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
+| [0361-bomb-enemy](https://github.com/Chaeun26/leet_code/tree/master/0361-bomb-enemy) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -325,6 +327,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chaeun26/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Chaeun26/leet_code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
+| [0361-bomb-enemy](https://github.com/Chaeun26/leet_code/tree/master/0361-bomb-enemy) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |

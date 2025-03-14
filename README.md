@@ -358,6 +358,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaeun26/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chaeun26/leet_code/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Chaeun26/leet_code/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

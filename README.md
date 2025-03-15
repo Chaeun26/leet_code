@@ -72,6 +72,7 @@
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Chaeun26/leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Chaeun26/leet_code/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chaeun26/leet_code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
@@ -183,6 +184,7 @@
 | [0125-valid-palindrome](https://github.com/Chaeun26/leet_code/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chaeun26/leet_code/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chaeun26/leet_code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
@@ -221,6 +223,7 @@
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chaeun26/leet_code/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Chaeun26/leet_code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |

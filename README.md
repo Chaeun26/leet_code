@@ -50,6 +50,7 @@
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
+| [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -132,6 +133,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
+| [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -439,4 +441,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->

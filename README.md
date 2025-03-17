@@ -188,6 +188,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -228,6 +229,7 @@
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
@@ -405,6 +407,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design

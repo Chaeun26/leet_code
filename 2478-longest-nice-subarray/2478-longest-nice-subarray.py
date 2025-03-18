@@ -5,10 +5,10 @@ class Solution:
 
         for i in range(len(nums)):
             while (nums[i] & curr) != 0 and j<len(nums):
-                curr=curr^nums[j]
+                curr &= ~nums[j]
                 j+=1
             
-            curr=curr|nums[i]
+            curr |= nums[i]
             ans=max(ans,i-j+1)
 
         return ans

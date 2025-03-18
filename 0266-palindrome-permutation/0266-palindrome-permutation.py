@@ -1,16 +1,11 @@
 class Solution:
     def canPermutePalindrome(self, s: str) -> bool:
-        mapping={}
-        odd=0
+        letter=set()
 
         for c in s:
-            if c not in mapping:
-                mapping[c]=1
+            if c in letter:
+                letter.remove(c)
             else:
-                mapping[c]+=1
+                letter.add(c)
 
-        for key in mapping:
-            if mapping[key]%2!=0:
-                odd+=1
-                
-        return True if odd<=1 else False
+        return len(letter) <= 1

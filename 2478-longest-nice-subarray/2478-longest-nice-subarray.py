@@ -4,7 +4,7 @@ class Solution:
         curr=j=0
 
         for i in range(len(nums)):
-            while (nums[i] & curr) != 0 and j<len(nums):
+            while (nums[i] & curr) != 0:
                 curr &= ~nums[j]
                 j+=1
             

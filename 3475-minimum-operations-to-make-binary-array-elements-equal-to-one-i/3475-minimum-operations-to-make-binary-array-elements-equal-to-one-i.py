@@ -9,5 +9,4 @@ class Solution:
                 nums[i+2]^=1
                 count+=1
         
-       print(nums)
        return count if sum(nums)==len(nums) else -1

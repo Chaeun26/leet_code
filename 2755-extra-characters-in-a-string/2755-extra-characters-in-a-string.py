@@ -1,16 +1,13 @@
 class Solution:
     def minExtraChar(self, s: str, dictionary: List[str]) -> int:
         n=len(s)
-        dp=[]
-
-        for i in range(n+1):
-            dp.append(n-i)
-        dp[n]=0
+        dp=[0]*51
 
         for i in range(n-1,-1,-1):
-            dp[i]=min(dp[i+1]+1,dp[i])
-            for j in range(i+1,n+1):
-                if s[i:j] in dictionary:
-                    dp[i]=min(dp[i],dp[j])
+            dp[i]=dp[i+1]+1
+            
+            for word in dictionary:
+                if i+len(word)<=n and s[i:i+len(word)]==word:
+                    dp[i]=min(dp[i],dp[i+len(word)])
 
         return dp[0]

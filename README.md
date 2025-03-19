@@ -55,6 +55,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2478-longest-nice-subarray](https://github.com/Chaeun26/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
@@ -81,6 +82,7 @@
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
@@ -198,6 +200,7 @@
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -361,6 +364,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -436,6 +440,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |

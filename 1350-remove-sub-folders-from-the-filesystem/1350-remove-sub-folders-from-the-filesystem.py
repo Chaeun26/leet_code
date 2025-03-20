@@ -18,10 +18,8 @@ class Solution:
         def dfs(node,components):
             if node.is_end:
                 return False if len(components)>0 else True
-            
-            c=components[0]
-
-            return dfs(node.children[c],components[1:])
+                
+            return dfs(node.children[components[0]],components[1:])
 
         ans=[]
         

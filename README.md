@@ -206,6 +206,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Chaeun26/leet_code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
@@ -256,6 +257,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Chaeun26/leet_code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Chaeun26/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -268,6 +270,7 @@
 | [0002-add-two-numbers](https://github.com/Chaeun26/leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Chaeun26/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Chaeun26/leet_code/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 ## Tree
@@ -472,6 +475,7 @@
 | [0071-simplify-path](https://github.com/Chaeun26/leet_code/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Chaeun26/leet_code/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |

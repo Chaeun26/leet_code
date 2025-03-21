@@ -1,36 +1,28 @@
 from collections import deque
 class Solution:
     def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:
-        num_of_pre={recipe:0 for recipe in recipes}
-        graph={}
-
-        recipe_ingredients_map = {recipe:set(ing) for recipe,ing in zip(recipes, ingredients)}
-        recipes=set(recipes)
+        indegree={recipe:0 for recipe in recipes}
+        graph=defaultdict(list)
         supplies=set(supplies)
 
-        for recipe,ing in recipe_ingredients_map.items():
+        for recipe,ing in zip(recipes,ingredients):
             for i in ing:
-                if i in recipes:
-                    if i in graph:
-                        graph[i].append(recipe)
-                    else:
-                        graph[i]=[recipe]
+                if i in set(recipes):
+                    graph[i].append(recipe)
+                    indegree[recipe]+=1
+                elif i not in supplies:
+                    pass
 
-                    num_of_pre[recipe]+=1
-
-        starters = deque([recipe for recipe, value in num_of_pre.items() if value==0])
+        queue=deque([recipe for recipe,value in indegree.items() if value==0 and set(ingredients[recipes.index(recipe)])<=supplies])
         ans=[]
 
-        while starters:
-            recipe=starters.popleft()
-            if recipe_ingredients_map[recipe] <= supplies:
-                ans.append(recipe)
-                supplies.add(recipe)
-                if recipe in graph:
-                    for mem in graph[recipe]:
-                        num_of_pre[mem]-=1
-                        if num_of_pre[mem]==0:
-                            starters.append(mem)
-
+        while queue:
+            r=queue.popleft()
+            ans.append(r)
+            supplies.add(r)
+            for recipe in graph[r]:
+                indegree[recipe]-=1
+                if indegree[recipe]==0 and set(ingredients[recipes.index(recipe)]) <= supplies:
+                    queue.append(recipe)
 
         return ans

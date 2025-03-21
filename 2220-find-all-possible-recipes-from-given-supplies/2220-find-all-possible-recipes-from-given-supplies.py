@@ -1,7 +1,6 @@
 from collections import deque
 class Solution:
     def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:
-        all_recipes={}
         num_of_pre={recipe:0 for recipe in recipes}
         graph={}
 

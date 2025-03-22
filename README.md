@@ -212,6 +212,7 @@
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
+| [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -261,6 +262,7 @@
 | [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
+| [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
@@ -274,6 +276,7 @@
 | [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
+| [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 ## Tree
 |  |
 | ------- |
@@ -484,6 +487,7 @@
 | [0224-basic-calculator](https://github.com/Chaeun26/leet_code/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 ## Topological Sort
 |  |

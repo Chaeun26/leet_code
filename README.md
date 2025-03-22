@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Chaeun26/leet_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chaeun26/leet_code/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Chaeun26/leet_code/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Chaeun26/leet_code/tree/master/0056-merge-intervals) |
@@ -411,6 +412,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaeun26/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chaeun26/leet_code/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Chaeun26/leet_code/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Chaeun26/leet_code/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
 |  |

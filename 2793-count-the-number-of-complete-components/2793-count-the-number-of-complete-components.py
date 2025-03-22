@@ -1,36 +1,35 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
         graph=defaultdict(list)
-        self.visited=set()
+        visited=set()
 
-        for edge in edges:
-            graph[edge[0]].append(edge[1])
-            graph[edge[1]].append(edge[0])
+        for u,v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
 
         def dfs(node):
             start=[node]
-            connected=set()
+            component=set()
 
             while start:
                 vertex=start.pop()
-                self.visited.add(vertex)
-                connected.add(vertex)
-
+                if vertex in visited:
+                    continue
+                visited.add(vertex)
+                component.add(vertex)
                 for v in graph[vertex]:
-                    if v not in self.visited:
+                    if v not in visited:
                         start.append(v)
 
-            return connected
+            return component
 
         complete=0
 
         for i in range(n):
-            if i not in self.visited:
-                connected=dfs(i)
-                edges=0
-                for mem in connected:
-                    edges+=len(graph[mem])
-                k=len(connected)
+            if i not in visited:
+                component=dfs(i)
+                edges=sum(len(graph[node]) for node in component)
+                k=len(component)
                 if edges==k*(k-1):
                     complete+=1      
 

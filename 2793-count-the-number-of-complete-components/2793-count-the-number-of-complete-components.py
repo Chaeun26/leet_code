@@ -31,7 +31,6 @@ class Solution:
                 for mem in connected:
                     edges+=len(graph[mem])
                 k=len(connected)
-                print(connected, edges)
                 if edges//2==(k*(k-1))//2:
                     complete+=1      
 

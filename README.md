@@ -56,6 +56,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Chaeun26/leet_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
+| [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -375,6 +376,7 @@
 | [0207-course-schedule](https://github.com/Chaeun26/leet_code/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [0813-all-paths-from-source-to-target](https://github.com/Chaeun26/leet_code/tree/master/0813-all-paths-from-source-to-target) |
+| [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Dynamic Programming
 |  |
@@ -429,6 +432,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |

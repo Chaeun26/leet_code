@@ -1,20 +1,16 @@
 class Solution:
-    def countDays(self, days: int, meetings: list[list[int]]) -> int:
-        free_days = 0
-        latest_end = 0
-
-        # Sort meetings based on starting times
+    def countDays(self, days: int, meetings: List[List[int]]) -> int:
         meetings.sort()
+        prev_s,prev_e=meetings[0]
+        count=0
 
-        for start, end in meetings:
-            # Add current range of days without a meeting
-            if start > latest_end + 1:
-                free_days += start - latest_end - 1
+        for i in range(1,len(meetings)):
+            if prev_e < meetings[i][0]:
+                count+=prev_e-meetings[i][0]+1
+                prev_e=meetings[i][1]
+            else:
+                prev_e=max(prev_e,meetings[i][1])
 
-            # Update latest meeting end
-            latest_end = max(latest_end, end)
+        count+=prev_e-prev_s+1
 
-        # Add all days after the last day of meetings
-        free_days += days - latest_end
-
-        return free_days
+        return days-count

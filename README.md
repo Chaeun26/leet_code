@@ -66,6 +66,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -120,6 +121,7 @@
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
+| [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |

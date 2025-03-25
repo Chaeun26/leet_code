@@ -2,6 +2,7 @@ class Solution:
     def minimumDistance(self, n: int, edges: List[List[int]], s: int, marked: List[int]) -> int:
         graph=defaultdict(list)
         distance=[inf]*n
+        marked=set(marked)
 
         for u,v,w in edges:
             graph[u].append((v,w))
@@ -12,6 +13,9 @@ class Solution:
         while start:
             dist,u=heapq.heappop(start)
 
+            if u in marked:
+                return distance[u]
+
             if dist > distance[u]:
                 continue
             
@@ -20,9 +24,4 @@ class Solution:
                     distance[v] = dist + w
                     heapq.heappush(start,(distance[v],v))
         
-        min_dist=inf
-
-        for m in marked:
-            min_dist=min(min_dist,distance[m])
-
-        return min_dist if min_dist!=inf else -1
+        return -1

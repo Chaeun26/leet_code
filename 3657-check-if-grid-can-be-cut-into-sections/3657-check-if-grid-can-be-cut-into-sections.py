@@ -1,22 +1,15 @@
 class Solution:
     def checkValidCuts(self, n: int, rectangles: List[List[int]]) -> bool:
-        x_ranges=[]
-        y_ranges=[]
 
-        for sx,sy,ex,ey in rectangles:
-            x_ranges.append((sx,ex))
-            y_ranges.append((sy,ey))
-
-        x_ranges.sort()
-        y_ranges.sort()
-
-        def cut_possibility(ranges):
-            latest_end=count=0
-            for s,e in ranges:
-                if 0 < latest_end <= s:
+        def cut_possibility(rect,dim):
+            count=0
+            rect.sort(key=lambda rect:rect[dim])
+            latest_end=rect[0][dim+2]
+            for i in range(1,len(rect)):
+                if latest_end <= rect[i][dim]:
                     count+=1
-                latest_end=max(latest_end,e)
+                latest_end=max(latest_end,rect[i][dim+2])
 
-            return count
+            return count>=2
         
-        return cut_possibility(x_ranges)>=2 or cut_possibility(y_ranges)>=2
+        return cut_possibility(rectangles,0) or cut_possibility(rectangles,1)

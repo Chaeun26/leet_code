@@ -71,6 +71,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Chaeun26/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Chaeun26/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |

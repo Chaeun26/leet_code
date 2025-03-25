@@ -67,6 +67,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
+| [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -388,12 +389,14 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
+| [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -441,6 +444,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
+| [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 ## Quickselect
 |  |
 | ------- |

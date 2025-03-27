@@ -1,28 +1,27 @@
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
-        # split from index 0 to len(nums)-1, compare dominant between each 
-        # sliding window
         n=len(nums)
-
         if n==1:
             return -1
         
-
-        left=defaultdict(int)
-        right=defaultdict(int)
-        left_len=0
-        right_len=n
+        freq = Counter(nums)
+        dominant = -1
+        for num,count in freq.items():
+            if count > n/2:
+                dominant=num
+                break
+        
+        if dominant==-1:
+            return dominant
+        
+        left_count=0
+        total_count = freq[dominant]
 
         for i in range(n):
-            right[nums[i]]+=1
-        
-        for i in range(n):
-            left_len+=1
-            left[nums[i]]+=1
-            right_len-=1
-            right[nums[i]]-=1
-            
-            if left[nums[i]]>left_len/2 and right[nums[i]]>right_len/2:
-                return i
-        
+            if nums[i]==dominant:
+                left_count+=1
+                if left_count>(i+1)/2 and total_count>(n-i+1)/2:
+                    return i
+                total_count-=1
         return -1
+        

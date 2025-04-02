@@ -72,6 +72,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chaeun26/leet_code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

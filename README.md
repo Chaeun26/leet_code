@@ -291,6 +291,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
+| [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -433,6 +434,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Chaeun26/leet_code/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
+| [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [0134-gas-station](https://github.com/Chaeun26/leet_code/tree/master/0134-gas-station) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
+| [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
 ## Simulation
 |  |
 | ------- |
@@ -557,4 +560,8 @@
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/Chaeun26/leet_code/tree/master/0157-read-n-characters-given-read4) |
+## Brainteaser
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->

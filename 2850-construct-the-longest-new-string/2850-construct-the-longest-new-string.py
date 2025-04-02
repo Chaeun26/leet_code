@@ -3,6 +3,4 @@ class Solution:
         As = min(x,y+1)
         Bs = min(x+1,y)
 
-        ABs = z
-
-        return (As + Bs + ABs)*2
+        return (As + Bs + z)*2

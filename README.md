@@ -51,6 +51,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Chaeun26/leet_code/tree/master/0907-koko-eating-bananas) |
@@ -132,6 +133,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -170,6 +172,7 @@
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
@@ -183,6 +186,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Chaeun26/leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Chaeun26/leet_code/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
@@ -462,6 +466,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 ## Quickselect

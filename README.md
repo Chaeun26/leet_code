@@ -576,4 +576,8 @@
 |  |
 | ------- |
 | [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Chaeun26/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

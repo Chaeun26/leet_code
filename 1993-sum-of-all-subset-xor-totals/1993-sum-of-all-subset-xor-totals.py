@@ -9,7 +9,6 @@ class Solution:
                 return 
             
             backtracking(idx+1,curr^nums[idx])
-            
             backtracking(idx+1,curr)
         
         backtracking(0,0)

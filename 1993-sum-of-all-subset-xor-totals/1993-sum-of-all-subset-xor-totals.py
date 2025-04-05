@@ -3,21 +3,15 @@ class Solution:
         self.n=len(nums)
         self.res=0
         
-        def backtracking(idx, curr_subset):
+        def backtracking(idx, curr):
             if idx==self.n:
-                print(curr_subset)
-                tmp=0
-                for mem in curr_subset:
-                   tmp ^= mem
-                self.res+=tmp
-                return
+                self.res+=curr
+                return 
             
-            curr_subset.append(nums[idx])
-            backtracking(idx+1,curr_subset)
-            curr_subset.pop()
+            backtracking(idx+1,curr^nums[idx])
             
-            backtracking(idx+1,curr_subset)
+            backtracking(idx+1,curr)
         
-        backtracking(0,[])
+        backtracking(0,0)
 
         return self.res

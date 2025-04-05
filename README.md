@@ -64,6 +64,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Chaeun26/leet_code/tree/master/1909-buildings-with-an-ocean-view) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Chaeun26/leet_code/tree/master/2262-solving-questions-with-brainpower) |
@@ -295,6 +296,7 @@
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
@@ -453,6 +455,7 @@
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Chaeun26/leet_code/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -464,6 +467,7 @@
 | [0051-n-queens](https://github.com/Chaeun26/leet_code/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Chaeun26/leet_code/tree/master/0052-n-queens-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Chaeun26/leet_code/tree/master/0813-all-paths-from-source-to-target) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -588,4 +592,12 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chaeun26/leet_code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Chaeun26/leet_code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Chaeun26/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

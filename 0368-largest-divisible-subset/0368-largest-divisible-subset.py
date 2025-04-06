@@ -23,7 +23,6 @@ class Solution:
 
         return res
         '''
-        3 4 8 16
         # backtracking - TLE occurs
 
         n=len(nums)

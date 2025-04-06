@@ -109,6 +109,7 @@
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
+| [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
@@ -252,6 +253,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -514,6 +516,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
 ## Simulation
 |  |

@@ -584,6 +584,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Chaeun26/leet_code/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Chaeun26/leet_code/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Chaeun26/leet_code/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Chaeun26/leet_code/tree/master/0577-employee-bonus) |

@@ -1,14 +1,13 @@
 class Solution:
     def partitionString(self, s: str) -> int:
-        cnt=0
-        prev=set()
+        cnt=1
+        last_idx = [-1]*26
+        start=0
         n=len(s)
         for i in range(n):
-            if s[i] in prev:
-                prev.clear()
-                prev.add(s[i])
+            if last_idx[ord(s[i])-ord('a')] >= start:
                 cnt+=1
-            else:
-                prev.add(s[i])
+                start=i
+            last_idx[ord(s[i])-ord('a')]=i
 
-        return cnt+1 if prev else cnt
+        return cnt

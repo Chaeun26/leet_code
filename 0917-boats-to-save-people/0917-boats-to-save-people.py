@@ -7,9 +7,7 @@ class Solution:
         while left<=right:
             if people[left]+people[right] <= limit or left==right:
                 left+=1
-                right-=1
-            else:
-                right-=1
+            right-=1
             res+=1
 
         return res

@@ -70,6 +70,7 @@
 | [1909-buildings-with-an-ocean-view](https://github.com/Chaeun26/leet_code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Chaeun26/leet_code/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
@@ -112,6 +113,7 @@
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
@@ -545,6 +547,7 @@
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
+| [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |
@@ -556,6 +559,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Chaeun26/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
+| [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 ## Trie
 |  |
 | ------- |

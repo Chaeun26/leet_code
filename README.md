@@ -83,6 +83,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Chaeun26/leet_code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Chaeun26/leet_code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
@@ -120,6 +121,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Chaeun26/leet_code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Chaeun26/leet_code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -267,6 +269,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -567,6 +570,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chaeun26/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Stack
 |  |
 | ------- |

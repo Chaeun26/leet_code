@@ -204,6 +204,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chaeun26/leet_code/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -370,6 +371,7 @@
 | [0904-leaf-similar-trees](https://github.com/Chaeun26/leet_code/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Chaeun26/leet_code/tree/master/0813-all-paths-from-source-to-target) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -437,6 +441,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chaeun26/leet_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Dynamic Programming
 |  |
 | ------- |

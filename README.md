@@ -60,6 +60,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
+| [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [0907-koko-eating-bananas](https://github.com/Chaeun26/leet_code/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
@@ -115,6 +116,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
+| [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
@@ -153,6 +155,7 @@
 | [0368-largest-divisible-subset](https://github.com/Chaeun26/leet_code/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -269,6 +272,7 @@
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
+| [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |

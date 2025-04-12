@@ -281,6 +281,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaeun26/leet_code/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -293,6 +294,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Chaeun26/leet_code/tree/master/2478-longest-nice-subarray) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaeun26/leet_code/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Chaeun26/leet_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

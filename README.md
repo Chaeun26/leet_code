@@ -80,6 +80,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Chaeun26/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chaeun26/leet_code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
@@ -123,6 +124,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chaeun26/leet_code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chaeun26/leet_code/tree/master/3227-find-missing-and-repeated-values) |
@@ -294,6 +296,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chaeun26/leet_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Chaeun26/leet_code/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Chaeun26/leet_code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaeun26/leet_code/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Chaeun26/leet_code/tree/master/3483-alternating-groups-ii) |

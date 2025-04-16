@@ -338,6 +338,7 @@
 | [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Chaeun26/leet_code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Chaeun26/leet_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Chaeun26/leet_code/tree/master/2649-count-total-number-of-colored-cells) |
@@ -354,6 +355,7 @@
 | [0231-power-of-two](https://github.com/Chaeun26/leet_code/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Chaeun26/leet_code/tree/master/0394-decode-string) |
 | [0785-basic-calculator-iii](https://github.com/Chaeun26/leet_code/tree/master/0785-basic-calculator-iii) |
+| [2050-count-good-numbers](https://github.com/Chaeun26/leet_code/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |

@@ -71,6 +71,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chaeun26/leet_code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Chaeun26/leet_code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -205,6 +206,7 @@
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2487-optimal-partition-of-string](https://github.com/Chaeun26/leet_code/tree/master/2487-optimal-partition-of-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Chaeun26/leet_code/tree/master/2850-construct-the-longest-new-string) |
@@ -703,4 +706,8 @@
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/Chaeun26/leet_code/tree/master/0251-flatten-2d-vector) |
+## String Matching
+|  |
+| ------- |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->

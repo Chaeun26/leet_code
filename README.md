@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chaeun26/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chaeun26/leet_code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chaeun26/leet_code/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Chaeun26/leet_code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Chaeun26/leet_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chaeun26/leet_code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Chaeun26/leet_code/tree/master/0051-n-queens) |
@@ -190,6 +191,7 @@
 | [0011-container-with-most-water](https://github.com/Chaeun26/leet_code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chaeun26/leet_code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chaeun26/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Chaeun26/leet_code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Chaeun26/leet_code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chaeun26/leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Chaeun26/leet_code/tree/master/0086-partition-list) |
@@ -476,6 +478,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chaeun26/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Chaeun26/leet_code/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Chaeun26/leet_code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Chaeun26/leet_code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Chaeun26/leet_code/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Chaeun26/leet_code/tree/master/0072-edit-distance) |
@@ -601,6 +604,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chaeun26/leet_code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Chaeun26/leet_code/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaeun26/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Chaeun26/leet_code/tree/master/0155-min-stack) |
@@ -623,6 +627,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chaeun26/leet_code/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Chaeun26/leet_code/tree/master/1909-buildings-with-an-ocean-view) |

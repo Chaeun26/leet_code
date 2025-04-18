@@ -60,6 +60,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Chaeun26/leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0772-construct-quad-tree](https://github.com/Chaeun26/leet_code/tree/master/0772-construct-quad-tree) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0833-bus-routes](https://github.com/Chaeun26/leet_code/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
@@ -121,6 +122,7 @@
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
+| [0833-bus-routes](https://github.com/Chaeun26/leet_code/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
@@ -428,6 +430,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Chaeun26/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0813-all-paths-from-source-to-target](https://github.com/Chaeun26/leet_code/tree/master/0813-all-paths-from-source-to-target) |
+| [0833-bus-routes](https://github.com/Chaeun26/leet_code/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Chaeun26/leet_code/tree/master/0945-snakes-and-ladders) |
 | [2793-count-the-number-of-complete-components](https://github.com/Chaeun26/leet_code/tree/master/2793-count-the-number-of-complete-components) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |

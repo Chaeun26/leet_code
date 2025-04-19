@@ -15,12 +15,33 @@ class Solution:
         cnt=0
         nums.sort()
 
-        for i,n in enumerate(nums):
-            curr_lower=lower-n
-            curr_upper=upper-n
+        # for i,n in enumerate(nums):
+        #     curr_lower=lower-n
+        #     curr_upper=upper-n
             
-            left=bisect_left(nums,curr_lower,i+1)
-            right=bisect_right(nums, curr_upper, i+1)
+        #     left=bisect_left(nums,curr_lower,i+1)
+        #     right=bisect_right(nums, curr_upper, i+1)
 
-            cnt+=right-left
+        #     cnt+=right-left
+        # return cnt
+
+        return self.lower_bound(nums, upper+1) - self.lower_bound(nums, lower)
+
+    def lower_bound(self, nums: List[int], value:int) -> int:
+        left=0
+        right=len(nums)-1
+        cnt=0
+
+        while left<right:
+            if nums[left]+nums[right]<value:
+                cnt+=right-left
+                left+=1
+            else:
+                right-=1
+
         return cnt
+
+
+
+
+

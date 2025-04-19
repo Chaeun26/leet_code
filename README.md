@@ -88,6 +88,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chaeun26/leet_code/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Chaeun26/leet_code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaeun26/leet_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Chaeun26/leet_code/tree/master/2755-extra-characters-in-a-string) |
 | [2880-find-the-closest-marked-node](https://github.com/Chaeun26/leet_code/tree/master/2880-find-the-closest-marked-node) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -169,6 +170,7 @@
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/Chaeun26/leet_code/tree/master/1397-search-suggestions-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaeun26/leet_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Chaeun26/leet_code/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Chaeun26/leet_code/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Chaeun26/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -215,6 +217,7 @@
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaeun26/leet_code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +235,7 @@
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Chaeun26/leet_code/tree/master/1397-search-suggestions-system) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Chaeun26/leet_code/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaeun26/leet_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chaeun26/leet_code/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Matrix
 |  |

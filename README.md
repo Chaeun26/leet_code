@@ -55,6 +55,7 @@
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Chaeun26/leet_code/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaeun26/leet_code/tree/master/0713-subarray-product-less-than-k) |
@@ -164,6 +165,7 @@
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0368-largest-divisible-subset](https://github.com/Chaeun26/leet_code/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
@@ -211,6 +213,7 @@
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0287-find-the-duplicate-number](https://github.com/Chaeun26/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
@@ -229,6 +232,7 @@
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0287-find-the-duplicate-number](https://github.com/Chaeun26/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaeun26/leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/Chaeun26/leet_code/tree/master/0907-koko-eating-bananas) |
@@ -307,6 +311,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaeun26/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaeun26/leet_code/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaeun26/leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chaeun26/leet_code/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -543,6 +548,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1325-path-with-maximum-probability](https://github.com/Chaeun26/leet_code/tree/master/1325-path-with-maximum-probability) |

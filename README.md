@@ -124,6 +124,7 @@
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
+| [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 | [0833-bus-routes](https://github.com/Chaeun26/leet_code/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
@@ -611,6 +612,7 @@
 | [0251-flatten-2d-vector](https://github.com/Chaeun26/leet_code/tree/master/0251-flatten-2d-vector) |
 | [0303-range-sum-query-immutable](https://github.com/Chaeun26/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 ## Trie
@@ -739,4 +741,8 @@
 |  |
 | ------- |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->

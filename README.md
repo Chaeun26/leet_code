@@ -85,6 +85,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaeun26/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Chaeun26/leet_code/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Chaeun26/leet_code/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
@@ -200,6 +201,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaeun26/leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/Chaeun26/leet_code/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Chaeun26/leet_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Chaeun26/leet_code/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers

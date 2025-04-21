@@ -55,6 +55,7 @@
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/Chaeun26/leet_code/tree/master/0550-shortest-path-to-get-food) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Chaeun26/leet_code/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -126,6 +127,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
 | [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Chaeun26/leet_code/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Chaeun26/leet_code/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
@@ -168,6 +170,7 @@
 | [0259-3sum-smaller](https://github.com/Chaeun26/leet_code/tree/master/0259-3sum-smaller) |
 | [0368-largest-divisible-subset](https://github.com/Chaeun26/leet_code/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0862-find-and-replace-in-string](https://github.com/Chaeun26/leet_code/tree/master/0862-find-and-replace-in-string) |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chaeun26/leet_code/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/Chaeun26/leet_code/tree/master/0837-most-common-word) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 ## Prefix Sum
@@ -552,6 +556,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chaeun26/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Chaeun26/leet_code/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Chaeun26/leet_code/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Chaeun26/leet_code/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -589,6 +594,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chaeun26/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Chaeun26/leet_code/tree/master/0134-gas-station) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chaeun26/leet_code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Chaeun26/leet_code/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Chaeun26/leet_code/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |

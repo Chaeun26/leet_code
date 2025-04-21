@@ -47,6 +47,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Chaeun26/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Chaeun26/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0361-bomb-enemy](https://github.com/Chaeun26/leet_code/tree/master/0361-bomb-enemy) |
 | [0368-largest-divisible-subset](https://github.com/Chaeun26/leet_code/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Chaeun26/leet_code/tree/master/0399-evaluate-division) |
@@ -126,6 +127,7 @@
 | [0202-happy-number](https://github.com/Chaeun26/leet_code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Chaeun26/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0266-palindrome-permutation](https://github.com/Chaeun26/leet_code/tree/master/0266-palindrome-permutation) |
+| [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 | [0621-task-scheduler](https://github.com/Chaeun26/leet_code/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Chaeun26/leet_code/tree/master/0797-rabbits-in-forest) |
@@ -260,6 +262,7 @@
 | [0200-number-of-islands](https://github.com/Chaeun26/leet_code/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0361-bomb-enemy](https://github.com/Chaeun26/leet_code/tree/master/0361-bomb-enemy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Chaeun26/leet_code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Chaeun26/leet_code/tree/master/0542-01-matrix) |
@@ -608,6 +611,7 @@
 | [0054-spiral-matrix](https://github.com/Chaeun26/leet_code/tree/master/0054-spiral-matrix) |
 | [0157-read-n-characters-given-read4](https://github.com/Chaeun26/leet_code/tree/master/0157-read-n-characters-given-read4) |
 | [0289-game-of-life](https://github.com/Chaeun26/leet_code/tree/master/0289-game-of-life) |
+| [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/Chaeun26/leet_code/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Chaeun26/leet_code/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
@@ -622,6 +626,7 @@
 | [0251-flatten-2d-vector](https://github.com/Chaeun26/leet_code/tree/master/0251-flatten-2d-vector) |
 | [0303-range-sum-query-immutable](https://github.com/Chaeun26/leet_code/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chaeun26/leet_code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |

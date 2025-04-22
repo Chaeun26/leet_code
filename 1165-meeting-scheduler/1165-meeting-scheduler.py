@@ -27,29 +27,41 @@ class Solution:
         [[50,490,609 ,222,653,186],[512711631,670791418],[730229023,802410205],[812553104,891266775],[230032010,399152578]]
         '''
 
-        slots1.sort()
-        slots2.sort()
+        # slots1.sort()
+        # slots2.sort()
 
-        n1,n2=len(slots1),len(slots2)
-        i=j=0
+        # n1,n2=len(slots1),len(slots2)
+        # i=j=0
 
-        while i<n1 and j<n2:
-            if slots1[i][0] > slots2[j][1] or slots2[j][0] > slots1[i][1]:
-                if slots1[i][1]<slots2[j][1]:
-                    i+=1
-                else:
-                    j+=1
+        # while i<n1 and j<n2:
+        #     if slots1[i][0] > slots2[j][1] or slots2[j][0] > slots1[i][1]:
+        #         if slots1[i][1]<slots2[j][1]:
+        #             i+=1
+        #         else:
+        #             j+=1
 
-            else:
-                start_time=max(slots1[i][0],slots2[j][0])
-                fin_time=min(slots1[i][1],slots2[j][1])
-                if start_time+duration <= fin_time:
-                    return [start_time,start_time+duration]
-                else:
-                    if slots1[i][1]<slots2[j][1]:
-                        i+=1
-                    else:
-                        j+=1
+        #     else:
+        #         start_time=max(slots1[i][0],slots2[j][0])
+        #         fin_time=min(slots1[i][1],slots2[j][1])
+        #         if start_time+duration <= fin_time:
+        #             return [start_time,start_time+duration]
+        #         else:
+        #             if slots1[i][1]<slots2[j][1]:
+        #                 i+=1
+        #             else:
+        #                 j+=1
 
+
+        # return []
+
+        slots=list(filter(lambda x:x[1]-x[0]>=duration, slots1+slots2))
+        heapq.heapify(slots)
+
+        while len(slots)>1:
+            s1,e1=heapq.heappop(slots)
+            s2,e2=slots[0]
+
+            if e1 >= s2+duration:
+                return [s2,s2+duration]
 
         return []

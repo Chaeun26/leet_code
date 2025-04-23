@@ -81,6 +81,7 @@
 | [1397-search-suggestions-system](https://github.com/Chaeun26/leet_code/tree/master/1397-search-suggestions-system) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Chaeun26/leet_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Chaeun26/leet_code/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/Chaeun26/leet_code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Chaeun26/leet_code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chaeun26/leet_code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -140,6 +141,7 @@
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Chaeun26/leet_code/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1500-count-largest-group](https://github.com/Chaeun26/leet_code/tree/master/1500-count-largest-group) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/Chaeun26/leet_code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Chaeun26/leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Chaeun26/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
@@ -235,6 +237,7 @@
 | [1009-pancake-sorting](https://github.com/Chaeun26/leet_code/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Chaeun26/leet_code/tree/master/1028-interval-list-intersections) |
 | [1165-meeting-scheduler](https://github.com/Chaeun26/leet_code/tree/master/1165-meeting-scheduler) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/Chaeun26/leet_code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Chaeun26/leet_code/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaeun26/leet_code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -647,6 +650,7 @@
 | [0348-design-tic-tac-toe](https://github.com/Chaeun26/leet_code/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/Chaeun26/leet_code/tree/master/0359-logger-rate-limiter) |
 | [1023-time-based-key-value-store](https://github.com/Chaeun26/leet_code/tree/master/1023-time-based-key-value-store) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/Chaeun26/leet_code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/Chaeun26/leet_code/tree/master/2169-simple-bank-system) |
 ## Trie
 |  |

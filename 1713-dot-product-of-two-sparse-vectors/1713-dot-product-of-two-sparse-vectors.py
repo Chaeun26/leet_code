@@ -1,22 +1,11 @@
 class SparseVector:
     def __init__(self, nums: List[int]):
-        self.non_zeros=defaultdict(int)
-        for i,n in enumerate(nums):
-            if n!=0:
-                self.non_zeros[i]=n
+        self.non_zeros={i:n for i,n in enumerate(nums) if n!=0}
         
 
     # Return the dotProduct of two sparse vectors
     def dotProduct(self, vec: 'SparseVector') -> int:
-        ans=0
-        v1_key_set=set(self.non_zeros.keys())
-        v2_key_set=set(vec.non_zeros.keys())
-        common_key=v1_key_set & v2_key_set
-        
-        for key in common_key:
-            ans+=self.non_zeros[key]*vec.non_zeros[key]
-
-        return ans
+        return sum(self.non_zeros[i]*vec.non_zeros[i] for i in self.non_zeros if i in vec.non_zeros)
         
 
 # Your SparseVector object will be instantiated and called as such:
